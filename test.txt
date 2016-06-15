@@ -1,3 +1,4 @@
 this is a test file.
 committed to repository.
 added to staged area.
+use file in repository.
